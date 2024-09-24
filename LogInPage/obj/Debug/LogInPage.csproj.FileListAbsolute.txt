@@ -1,0 +1,13 @@
+C:\Users\KodyD\source\repos\LogInPage\bin\Debug\LogInPage.exe.config
+C:\Users\KodyD\source\repos\LogInPage\bin\Debug\LogInPage.exe
+C:\Users\KodyD\source\repos\LogInPage\bin\Debug\LogInPage.pdb
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.csproj.AssemblyReference.cache
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.LogIn.resources
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.Properties.Resources.resources
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.VendorInfo.resources
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.csproj.GenerateResource.cache
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.csproj.CoreCompileInputs.cache
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.exe
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.pdb
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.csproj.ResolveComReference.cache
+C:\Users\KodyD\source\repos\LogInPage\obj\Debug\LogInPage.SignUp.resources
